@@ -44,15 +44,6 @@ Confusion Matrix:
 
 To improve the robustness of the models, cross-validation techniques were employed. Cross-validation helps in obtaining a more generalized performance estimate of the model by splitting the dataset into multiple subsets for training and testing.
 
-## Usage
-
-To use the code in this repository:
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies mentioned in the `requirements.txt` file.
-3. Run the Jupyter Notebook or Python scripts provided to train and evaluate the models.
-4. Experiment with different hyperparameters and preprocessing techniques to improve model performance.
-
 ## Conclusion
 
 This project demonstrates the application of machine learning techniques for fraud detection. By leveraging cross-validation, the models can provide more reliable predictions, helping businesses in identifying and preventing fraudulent activities effectively.
